@@ -1,8 +1,8 @@
 # pPSNM - Quickstart
 1. Clone the repository
 ```bash
-git clone <REPOSITORY_URL>
-cd <REPOSITORY_FOLDER>
+git clone https://github.com/vfrubend/pPSNM.git
+cd <YOUR_CHOSEN_DIRECTORY_HERE>/pPSNM
 ```
 
 2. Create and activate a virtual environment (Python 3.10 or newer)
