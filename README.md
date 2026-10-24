@@ -1,11 +1,12 @@
 # pPSNM - Quickstart
 1. Clone the repository
+2. Open the terminal in the folder you cloned into and run
 ```bash
 git clone https://github.com/vfrubend/pPSNM.git
-cd <YOUR_CHOSEN_DIRECTORY_HERE>/pPSNM
+cd pPSNM
 ```
 
-2. Create and activate a virtual environment (Python 3.10 or newer)
+3. Create and activate a virtual environment (Python 3.10 or newer)
 ```bash
 python -m venv .venv
 
@@ -16,11 +17,11 @@ source .venv/bin/activate
 .venv\Scripts\Activate.ps1
 ```
 
-3. Install the dependencies
+4. Install the dependencies
 ```bash
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-4. Open the pPSNM folder in your editor of choice
-5. Run the notebook named Progressive Duplicate Detection.ipynb
+5. Open the pPSNM folder in your editor of choice
+7. Run the notebook named Progressive Duplicate Detection.ipynb using the .venv as your kernel
